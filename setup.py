@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.1'
+VERSION = '0.2'
 DESCRIPTION = 'Print colored text on console in python'
 
 # Setting up
 setup(
-    name="colortext",
+    name="colortextprint",
     version=VERSION,
     author="Prathamesh Sable",
     author_email="prathameshks2003@gmail.com",
